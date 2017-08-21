@@ -12,8 +12,8 @@ It sort of works, but unfortunately, causes the browser to hang. I would really 
 # How to Replicate
 
 1. (optional) Run `forth_native_exe` on a Linux machine. Notice that it does not crash.
-2. Open `index.html` in Chrome. Notice that it crashes.
-3. Open `index.html` in Firefox. Notice that it crashes.
+2. Open `index.html` in Chrome. Notice that it crashes. [This link will cause your tab to hang, probably.](https://rawgit.com/RickCarlino/WASM-Forth/master/index.html)
+3. Open `index.html` in Firefox. Notice that it crashes.  [This link will cause your tab to hang, probably.](https://rawgit.com/RickCarlino/WASM-Forth/master/index.html)
 
 
 ...doe anyone have any ideas as to why?
