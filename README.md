@@ -16,7 +16,7 @@ It sort of works, but unfortunately, causes the browser to hang. I would really 
 3. Open `index.html` in Firefox. Notice that it crashes.  [This link will cause your tab to hang, probably.](https://rawgit.com/RickCarlino/WASM-Forth/master/index.html)
 
 
-...doe anyone have any ideas as to why?
+...does anyone have any ideas as to why?
 
 # License
 
